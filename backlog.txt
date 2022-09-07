@@ -1,0 +1,5 @@
+TO DO LIST:
+
+-Definir el uso de la página. ¿Qué es, para qué sirve?
+-Definir dónde colocar los formularios. (Contacto, suscripción)
+-Definir los formularios.
